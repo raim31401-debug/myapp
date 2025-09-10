@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm warn init canceled"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm init -y"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
